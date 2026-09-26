@@ -74,5 +74,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-/[Aa]ssets/_Store Simulator Assets.meta
-# force sync
+**/_Store?Simulator?Assets/**
+**/_Store?Simulator?Assets.meta**
