@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8016b331a463354f8f7875fb64d02a6, type: 3}
+  m_Name: StockInfoSO - Lettuce
+  m_EditorClassIdentifier: 
+  objectName: Lettuce
+  stockType: 4
+  price: 4.5
+  currentPrice: 4.5
+  maxPickupAmount: 2
+  objectPrefab: {fileID: 3264616565213501585, guid: 71f47accf8c22564392e9bbccd1a49de, type: 3}

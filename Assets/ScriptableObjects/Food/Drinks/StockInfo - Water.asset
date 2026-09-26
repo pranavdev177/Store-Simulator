@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8016b331a463354f8f7875fb64d02a6, type: 3}
+  m_Name: StockInfo - Water
+  m_EditorClassIdentifier: 
+  objectName: Water
+  stockType: 1
+  price: 1
+  currentPrice: 1
+  maxPickupAmount: 6
+  objectPrefab: {fileID: 2468705381891543030, guid: 71542c42e7509a640b574b9e3079f0f2, type: 3}

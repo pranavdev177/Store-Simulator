@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8016b331a463354f8f7875fb64d02a6, type: 3}
+  m_Name: StockInfo - BBQ Chips
+  m_EditorClassIdentifier: 
+  objectName: BBQ Chips
+  stockType: 2
+  price: 3.5
+  currentPrice: 3.5
+  maxPickupAmount: 2
+  objectPrefab: {fileID: 663119248509158664, guid: ec2d2c473a77b10408dc4a5898880709, type: 3}
